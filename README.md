@@ -1,6 +1,6 @@
 # Introduction-to-Python
 Working with a synthetic dataset and API Endpoints.
-```markdown
+
 # Project: Student Data Processing
 
 ## Overview
