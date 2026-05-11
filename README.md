@@ -4,7 +4,7 @@ Working with a synthetic dataset and API Endpoints.
 # Project: Student Data Processing
 
 ## Overview
-This project demonstrates how to retrieve and process student data from a remote JSON file using Python, `requests`, and `pandas`.
+This project demonstrates how to retrieve and process student data from a remote JSON file using Python, `requests` and `pandas`.
 
 ## Data Source
 The raw student data is sourced from a GitHub repository:
@@ -27,3 +27,5 @@ The raw student data is sourced from a GitHub repository:
 To replicate the steps:
 1.  Run the Python cells in the notebook sequentially.
 2.  The `students_data.csv` file will be generated in your Colab environment.
+
+Perform the same operations for the dummy JSON data as an API. Follow the steps in the 'Working with API Endpoints' file.
